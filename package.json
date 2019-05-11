@@ -1,0 +1,29 @@
+{
+  "name": "forexlanding",
+  "version": "1.0.0",
+  "description": "Forex Landing",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpetrusenko/ForexLanding.git"
+  },
+  "keywords": [
+    "Forex",
+    "Landing",
+    "Forex",
+    "Landing"
+  ],
+  "author": "Valera Petrusenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpetrusenko/ForexLanding/issues"
+  },
+  "homepage": "https://github.com/vpetrusenko/ForexLanding#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
